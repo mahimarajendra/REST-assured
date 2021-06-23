@@ -13,7 +13,7 @@ import java.util.Map;
 
 public class GETANDPOSTEXMAPLES {
 
-	//@Test
+	@Test
 	public void Testget() {
 	 
 		baseURI= "https://reqres.in/api";
